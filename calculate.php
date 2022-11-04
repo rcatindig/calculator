@@ -10,7 +10,7 @@
     echo "| (sqrt) Square Root ". "\n";
 
 
-    $operator = fwrite(STDOUT," choose operator(+ - * /): ");
+    $operator = fwrite(STDOUT," choose operator(+ - * / sqrt): ");
     $operator = trim(fgets(STDIN));
 
 
