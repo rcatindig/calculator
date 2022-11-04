@@ -2,7 +2,7 @@
 
 to run the cli
 1. go to the specific root folder and type:
- `php calculate.php`
+ ```php calculate.php```
 
 ![image](https://user-images.githubusercontent.com/18145922/199970958-ac2d4aff-c0eb-4a24-9049-75e9c568db81.png)
 
